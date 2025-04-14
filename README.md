@@ -1,0 +1,1 @@
+The topic that I want to pursue for this project revolves around Volleyball and how it consists of a physics principle called projectile motion with air drag. I will be using Python to fabricate simulated data for x, y, and initial velocities for serves made at various angles to determine the quadratic fit that would suggest optimal parameters for a successful serve. 
